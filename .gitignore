@@ -2,3 +2,4 @@
 /.composer/
 .phpunit.cache/
 coverage/
+.vscode/
